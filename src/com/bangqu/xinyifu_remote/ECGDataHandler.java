@@ -6,7 +6,7 @@ import android.os.Handler;
 import android.os.Message;
 
 /**
- * handler管理类
+ * handler管理类（）
  * 
  * @author zyn
  * 
